@@ -1,0 +1,39 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Black shoes",
+      "description": "Confort Black shoes",
+      "price": 199.99,
+      "image": "./assets/images/shoes1.png"
+    },
+    {
+      "id": 2,
+      "name": "Gray shoes",
+      "description": "Confort Gray shoes",
+      "price": 199.99,
+      "image": "./assets/images/shoes2.png"
+    },
+    {
+      "id": 3,
+      "name": "White shoes",
+      "description": "Confort White shoes",
+      "price": 199.99,
+      "image": "./assets/images/shoes3.png"
+    },
+    {
+      "description": "Confort Color Shoes",
+      "image": "https://www.guller.com.br/19740-medium_default/t%C3%AAnis-streetwear-masculino-estampa-colorido-estilo-futurista-esportivo-plataforma-leve-confort%C3%A1vel-macio.jpg",
+      "price": "199.99",
+      "name": "Color Shoes",
+      "id": 8
+    },
+    {
+      "description": "teste",
+      "image": "teste",
+      "price": "teste",
+      "name": "teste",
+      "id": 9
+    }
+  ]
+}
