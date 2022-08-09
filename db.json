@@ -5,34 +5,34 @@
       "name": "Black shoes",
       "description": "Confort Black shoes",
       "price": 199.99,
-      "image": "./assets/images/shoes1.png"
+      "image": "../assets/images/shoes1.png"
     },
     {
       "id": 2,
       "name": "Gray shoes",
       "description": "Confort Gray shoes",
       "price": 199.99,
-      "image": "./assets/images/shoes2.png"
+      "image": "../assets/images/shoes2.png"
     },
     {
       "id": 3,
       "name": "White shoes",
       "description": "Confort White shoes",
       "price": 199.99,
-      "image": "./assets/images/shoes3.png"
+      "image": "../assets/images/shoes3.png"
     },
     {
       "description": "Confort Color Shoes",
       "image": "https://www.guller.com.br/19740-medium_default/t%C3%AAnis-streetwear-masculino-estampa-colorido-estilo-futurista-esportivo-plataforma-leve-confort%C3%A1vel-macio.jpg",
-      "price": "199.99",
+      "price": "195.69",
       "name": "Color Shoes",
       "id": 8
     },
     {
-      "description": "teste",
-      "image": "teste",
-      "price": "teste",
-      "name": "teste",
+      "description": "Confort Blues Shoes",
+      "image": "https://cdnv2.moovin.com.br/diraffaccalcados/imagens/produtos/det/tenis-masculino-nike-sb-chron-solarsoft-9079d145cc5da367208b4e8076f1b75d.png",
+      "price": "200",
+      "name": "Blue Shoes",
       "id": 9
     }
   ]
