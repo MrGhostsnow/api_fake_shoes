@@ -12,14 +12,14 @@
       "name": "Gray shoes",
       "description": "Confort Gray shoes",
       "price": 199.99,
-      "image": "../assets/images/shoes2.png"
+      "image": "https://cdnv2.moovin.com.br/rainhacalcados/imagens/produtos/det/tenis-masculino-adidas-terrex-tracerocker-g26415-ideal-para-trilhas-cbaac1186c92f3d0f1f3314543ff4511.png"
     },
     {
       "id": 3,
       "name": "White shoes",
       "description": "Confort White shoes",
       "price": 199.99,
-      "image": "../assets/images/shoes3.png"
+      "image": "https://cdnv2.moovin.com.br/rainhacalcados/imagens/produtos/det/tenis-masculino-adidas-vs-advantage-d4ca7a971949a99ea95b48f4df8ec4eb.png"
     },
     {
       "description": "Confort Color Shoes",
